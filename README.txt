@@ -1,45 +1,17 @@
-Spectral by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
-and an assortment of pre-styled elements. So, pretty much what you were expecting
--- except, of course, for how it's put together, specifically:
-
-- It's built with components from my Responsive Tools project.
-
-- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
-
-- It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
-
-  (* = still entirely optional if you prefer vanilla CSS :)
-
-- A ton of other stuff.
-
-In short, Spectral's the culmination of several new things I'm working on/trying out,
-so please, let me know what you think :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+# anhduc1017
+## 👻主頁 / 履歷頁面
+基本資料、技能
+## 🐻🐾個人介紹頁
+興趣、自傳、圖片
+##🐊爬蟲成果展示頁
+爬蟲資料、爬蟲結果圖表與逐步介紹如何爬出這些資
+料&搭配核心程式碼講解
+##🦙網站連結
+[點我前往](https://gina511.github.io/index.html#)
+##🦖使用工具與套件
+* github
+* spyter
+##🦕圖示（放上打算要爬蟲的資料截圖與網站連結）
+[公車查詢](https://citybus.taichung.gov.tw)
+##🦭作者與聯絡方式 
+44881234kj@gmail.com
